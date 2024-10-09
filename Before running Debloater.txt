@@ -1,3 +1,3 @@
 1. Run Powershell as Administrator.
 2. Set-ExecutionPolicy -ExecutionPolicy Unrestricted
-3. Right-click "Windows10DebloaterGUI.ps1 and run as administrater
+3. Run ".\Windows10DebloaterGUI.ps1" or one of the other scripts OR Right-click "Windows10DebloaterGUI.ps1 and run as administrater
