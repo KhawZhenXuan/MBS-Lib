@@ -1,5 +1,6 @@
 MBS Library JOI Classmate 10 Laptop Basic Programs setup
 ==
+Basic Setup Programs: 
 - Chrome Browser
 - Debloater
 - Minimal Processes
